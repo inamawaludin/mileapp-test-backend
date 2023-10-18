@@ -13,7 +13,7 @@
 - Jalankan command `composer install`
 - Buat file baru yang bernama `.env`
 - Copy seluruh isi dari file `.env.example`, kemudian paste isi ke file `.env` anda
-- Konfigurasi `DB_CONNECTION` di file `.env` menjadi 'mongodb'
+- Konfigurasi `DB_CONNECTION` di file `.env` menjadi 'mongodb'dan sesuaikan credential dengan credential MongoDB milik anda
 - Konfigurasi `DB_DATABASE` di file `.env` anda dengan nama database anda
 - Jalankan command `php artisan key:generate`
 - Jalankan `php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\LaravelServiceProvider"`
