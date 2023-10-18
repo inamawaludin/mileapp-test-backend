@@ -1,0 +1,301 @@
+[
+    {
+        "transaction_id": "d0090c40-539f-479a-8274-899b9970bddc",
+        "customer_name": "PT. AMARA PRIMATIGA",
+        "customer_code": "1678593",
+        "transaction_amount": "70700",
+        "transaction_discount": "0",
+        "transaction_additional_field": "",
+        "transaction_payment_type": "29",
+        "transaction_state": "PAID",
+        "transaction_code": "CGKFT20200715121",
+        "transaction_order": 121,
+        "location_id": "5cecb20b6c49615b174c3e74",
+        "organization_id": 6,
+        "created_at": "2020-07-15T11:11:12+0700",
+        "updated_at": "2020-07-15T11:11:22+0700",
+        "transaction_payment_type_name": "Invoice",
+        "transaction_cash_amount": 0,
+        "transaction_cash_change": 0,
+        "customer_attribute": {
+            "Nama_Sales": "Radit Fitrawikarsa",
+            "TOP": "14 Hari",
+            "Jenis_Pelanggan": "B2B"
+        },
+        "connote": {
+            "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+            "connote_number": 1,
+            "connote_service": "ECO",
+            "connote_service_price": 70700,
+            "connote_amount": 70700,
+            "connote_code": "AWB00100209082020",
+            "connote_booking_code": "",
+            "connote_order": 326931,
+            "connote_state": "PAID",
+            "connote_state_id": 2,
+            "zone_code_from": "CGKFT",
+            "zone_code_to": "SMG",
+            "surcharge_amount": null,
+            "transaction_id": "d0090c40-539f-479a-8274-899b9970bddc",
+            "actual_weight": 20,
+            "volume_weight": 0,
+            "chargeable_weight": 20,
+            "created_at": "2020-07-15T11:11:12+0700",
+            "updated_at": "2020-07-15T11:11:22+0700",
+            "organization_id": 6,
+            "location_id": "5cecb20b6c49615b174c3e74",
+            "connote_total_package": "3",
+            "connote_surcharge_amount": "0",
+            "connote_sla_day": "4",
+            "location_name": "Hub Jakarta Selatan",
+            "location_type": "HUB",
+            "source_tariff_db": "tariff_customers",
+            "id_source_tariff": "1576868",
+            "pod": null,
+            "history": []
+        },
+        "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+        "origin_data": {
+            "customer_name": "PT. NARA OKA PRAKARSA",
+            "customer_address": "JL. KH. AHMAD DAHLAN NO. 100, SEMARANG TENGAH 12420",
+            "customer_email": "info@naraoka.co.id",
+            "customer_phone": "024-1234567",
+            "customer_address_detail": null,
+            "customer_zip_code": "12420",
+            "zone_code": "CGKFT",
+            "organization_id": 6,
+            "location_id": "5cecb20b6c49615b174c3e74"
+        },
+        "destination_data": {
+            "customer_name": "PT AMARIS HOTEL SIMPANG LIMA",
+            "customer_address": "JL. KH. AHMAD DAHLAN NO. 01, SEMARANG TENGAH",
+            "customer_email": null,
+            "customer_phone": "0248453499",
+            "customer_address_detail": "KOTA SEMARANG SEMARANG TENGAH KARANGKIDUL",
+            "customer_zip_code": "50241",
+            "zone_code": "SMG",
+            "organization_id": 6,
+            "location_id": "5cecb20b6c49615b174c3e74"
+        },
+        "koli_data": [
+            {
+                "koli_length": 0,
+                "awb_url": "https://tracking.mile.app/label/AWB00100209082020.1",
+                "created_at": "2020-07-15 11:11:13",
+                "koli_chargeable_weight": 9,
+                "koli_width": 0,
+                "koli_surcharge": [],
+                "koli_height": 0,
+                "updated_at": "2020-07-15 11:11:13",
+                "koli_description": "V WARP",
+                "koli_formula_id": null,
+                "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+                "koli_volume": 0,
+                "koli_weight": 9,
+                "koli_id": "e2cb6d86-0bb9-409b-a1f0-389ed4f2df2d",
+                "koli_custom_field": {
+                    "awb_sicepat": null,
+                    "harga_barang": null
+                },
+                "koli_code": "AWB00100209082020.1"
+            },
+            {
+                "koli_length": 0,
+                "awb_url": "https://tracking.mile.app/label/AWB00100209082020.2",
+                "created_at": "2020-07-15 11:11:13",
+                "koli_chargeable_weight": 9,
+                "koli_width": 0,
+                "koli_surcharge": [],
+                "koli_height": 0,
+                "updated_at": "2020-07-15 11:11:13",
+                "koli_description": "V WARP",
+                "koli_formula_id": null,
+                "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+                "koli_volume": 0,
+                "koli_weight": 9,
+                "koli_id": "3600f10b-4144-4e58-a024-cc3178e7a709",
+                "koli_custom_field": {
+                    "awb_sicepat": null,
+                    "harga_barang": null
+                },
+                "koli_code": "AWB00100209082020.2"
+            },
+            {
+                "koli_length": 0,
+                "awb_url": "https://tracking.mile.app/label/AWB00100209082020.3",
+                "created_at": "2020-07-15 11:11:13",
+                "koli_chargeable_weight": 2,
+                "koli_width": 0,
+                "koli_surcharge": [],
+                "koli_height": 0,
+                "updated_at": "2020-07-15 11:11:13",
+                "koli_description": "LID HOT CUP",
+                "koli_formula_id": null,
+                "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+                "koli_volume": 0,
+                "koli_weight": 2,
+                "koli_id": "2937bdbf-315e-4c5e-b139-fd39a3dfd15f",
+                "koli_custom_field": {
+                    "awb_sicepat": null,
+                    "harga_barang": null
+                },
+                "koli_code": "AWB00100209082020.3"
+            }
+        ],
+        "custom_field": {
+            "catatan_tambahan": "JANGAN DI BANTING / DI TINDIH"
+        },
+        "currentLocation": {
+            "name": "Hub Jakarta Selatan",
+            "code": "JKTS01",
+            "type": "Agent"
+        }
+    },
+    {
+        "customer_name": "ABC Logistics",
+        "customer_code": "1234567",
+        "transaction_amount": "50000",
+        "transaction_discount": "500",
+        "transaction_additional_field": "Express Shipping",
+        "transaction_payment_type": "12",
+        "transaction_state": "PROCESSING",
+        "transaction_code": "CGKFT20201015001",
+        "transaction_order": 1501,
+        "location_id": "5cecb20b6c49615b174c3e75",
+        "organization_id": 7,
+        "created_at": "2020-10-15T09:30:45+0700",
+        "updated_at": "2020-10-16T14:45:32+0700",
+        "transaction_payment_type_name": "Credit Card",
+        "transaction_cash_amount": 250,
+        "transaction_cash_change": 50,
+        "customer_attribute": {
+            "Nama_Sales": "Sarah Johnson",
+            "TOP": "30 Days",
+            "Jenis_Pelanggan": "B2C"
+        },
+        "connote": {
+            "connote_id": "e4d3d7a2-8f24-4b91-9ab2-3b41c0d31f9e",
+            "connote_number": 2,
+            "connote_service": "PREMIUM",
+            "connote_service_price": 75000,
+            "connote_amount": 70000,
+            "connote_code": "AWB00100315102020",
+            "connote_booking_code": "BKD123456",
+            "connote_order": 351019,
+            "connote_state": "DELIVERED",
+            "connote_state_id": 3,
+            "zone_code_from": "CGKJT",
+            "zone_code_to": "BDO",
+            "surcharge_amount": 200,
+            "transaction_id": "f1e2d3c4-5678-9012-3456-7890a1b2c3d4",
+            "actual_weight": 18,
+            "volume_weight": 2,
+            "chargeable_weight": 17,
+            "created_at": "2020-10-15T09:30:45+0700",
+            "updated_at": "2020-10-16T14:45:32+0700",
+            "organization_id": 7,
+            "location_id": "5cecb20b6c49615b174c3e75",
+            "connote_total_package": "2",
+            "connote_surcharge_amount": "150",
+            "connote_sla_day": "3",
+            "location_name": "Distribution Center Bandung",
+            "location_type": "DC",
+            "source_tariff_db": "tariff_customers",
+            "id_source_tariff": "2345678",
+            "pod": "POD123456",
+            "history": [
+                {
+                    "status": "RECEIVED",
+                    "timestamp": "2020-10-15T11:30:45+0700"
+                },
+                {
+                    "status": "PROCESSING",
+                    "timestamp": "2020-10-15T12:45:32+0700"
+                },
+                {
+                    "status": "OUT FOR DELIVERY",
+                    "timestamp": "2020-10-16T08:30:45+0700"
+                },
+                {
+                    "status": "DELIVERED",
+                    "timestamp": "2020-10-16T14:45:32+0700"
+                }
+            ]
+        },
+        "connote_id": "e4d3d7a2-8f24-4b91-9ab2-3b41c0d31f9e",
+        "origin_data": {
+            "customer_name": "ABC Electronics",
+            "customer_address": "123 Main Street, Jakarta Pusat 10110",
+            "customer_email": "info@abc-electronics.com",
+            "customer_phone": "021-9876543",
+            "customer_address_detail": "Building A, Floor 5",
+            "customer_zip_code": "10110",
+            "zone_code": "CGKJT",
+            "organization_id": 7,
+            "location_id": "5cecb20b6c49615b174c3e75"
+        },
+        "destination_data": {
+            "customer_name": "PT. BEST Retail",
+            "customer_address": "45 Jalan Raya, Bandung Barat 40301",
+            "customer_email": "info@best-retail.co.id",
+            "customer_phone": "0228889999",
+            "customer_address_detail": "Retail Park, Karangkituruy",
+            "customer_zip_code": "40301",
+            "zone_code": "BDO",
+            "organization_id": 7,
+            "location_id": "5cecb20b6c49615b174c3e75"
+        },
+        "koli_data": [
+            {
+                "koli_length": 20,
+                "awb_url": "https://tracking.mile.app/label/AWB00100315102020.1",
+                "created_at": "2020-10-15 09:30:45",
+                "koli_chargeable_weight": 10,
+                "koli_width": 25,
+                "koli_surcharge": ["Fragile Item", "Special Handling"],
+                "koli_height": 15,
+                "updated_at": "2020-10-15 09:30:45",
+                "koli_description": "Electronic Gadgets",
+                "koli_formula_id": "F12345",
+                "connote_id": "e4d3d7a2-8f24-4b91-9ab2-3b41c0d31f9e",
+                "koli_volume": 7500,
+                "koli_weight": 8,
+                "koli_id": "8765432a-bcde-9876-5432-abcdef123456",
+                "koli_custom_field": {
+                    "awb_sicepat": "SIC123",
+                    "harga_barang": "7500000"
+                },
+                "koli_code": "AWB00100315102020.1"
+            },
+            {
+                "koli_length": 15,
+                "awb_url": "https://tracking.mile.app/label/AWB00100315102020.2",
+                "created_at": "2020-10-15 09:30:45",
+                "koli_chargeable_weight": 5,
+                "koli_width": 20,
+                "koli_surcharge": ["Fragile Item"],
+                "koli_height": 10,
+                "updated_at": "2020-10-15 09:30:45",
+                "koli_description": "Small Appliance",
+                "koli_formula_id": "F67890",
+                "connote_id": "e4d3d7a2-8f24-4b91-9ab2-3b41c0d31f9e",
+                "koli_volume": 3000,
+                "koli_weight": 3,
+                "koli_id": "1234567a-bcde-1234-5678-abcdef987654",
+                "koli_custom_field": {
+                    "awb_sicepat": "SIC456",
+                    "harga_barang": "3000000"
+                },
+                "koli_code": "AWB00100315102020.2"
+            }
+        ],
+        "custom_field": {
+            "catatan_tambahan": "Handle with Care"
+        },
+        "currentLocation": {
+            "name": "Distribution Center Jakarta",
+            "code": "JKTDC01",
+            "type": "DC"
+        }
+    }
+]
